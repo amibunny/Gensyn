@@ -342,7 +342,7 @@ rm -rf $HOME/rl-swarm/modal-login/app/layout.tsx
 ```
 
 ```
-curl -o $HOME/rl-swarm/modal-login/app/layout.tsx https://raw.githubusercontent.com/Mayankgg01/Gensyn-ai-Rl-Swarm_Guide/main/rl-swarm/modal-login/app/layout.tsx
+curl -o $HOME/rl-swarm/modal-login/app/layout.tsx https://raw.githubusercontent.com/amibunny/Gensyn/main/rl-swarm/modal-login/app/layout.tsx
 ```
 
 
