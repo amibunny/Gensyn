@@ -143,7 +143,7 @@ cd ..
 ./run_rl_swarm.sh
 ```
 
-t.me/GensynUpdate_bot <- track you peer id on this bot
+https://t.me/GensynUpdate_bot <- track you peer id on this bot
 
 
 - After Running the Above command it will promt `Would you like to connect to the Testnet? [Y/n]` Enter `Y`
