@@ -142,9 +142,10 @@ cd ..
 ```
 ./run_rl_swarm.sh
 ```
-```
+
 t.me/GensynUpdate_bot <- track you peer id on this bot
-```
+
+
 - After Running the Above command it will promt `Would you like to connect to the Testnet? [Y/n]` Enter `Y`
 
 - After than it will promt `>> Which swarm would you like to join (Math (A) or Math Hard (B))? [A/b]`  Enter   `a`
